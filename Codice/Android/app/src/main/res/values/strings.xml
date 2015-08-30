@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Shike</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Riprendi</string>
+    <string name="pause">Pausa</string>
+    <string name="stop">Termina</string>
+    <string name="chronometerZeroTime">0:00:000</string>
+    <string name="selezionePercorso">Seleziona percorso</string>
+    <string name="avviaNavigazione">Avvia navigazione</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_track_selection_view">Lista percorsi</string>
+    <string name="blocca">Blocca</string>
+    <string name="trackName">nome tracciato</string>
+    <string name="trackLength">Lunghezza tracciato</string>
+    <string name="trackNameText">nome tracciato</string>
+    <string name="trackLengthText">lunghezza tracciato</string>
+    <string name="trackWeather">meteo tracciato</string>
+    <string name="trackStartText">Parti</string>
+    <string name="trackBackButton">Indietro</string>
+    <string name="trackRainChanceText">ProbPioggia</string>
+    <string name="sincTextButton">Sincronizza</string>
+    <string name="settingText">Impostazioni</string>
+    <string name="syncText">Sincronizza</string>
+    <string name="disconnectsText">Disconnetti account</string>
+    <string name="compass">Pointer</string>
+    <string name="rosaventi">compass</string>
+    <string name="weatherText">Condizione</string>
+    <string name="temperatureText">Temperatura</string>
+    <string name="pressureText">Pressione</string>
+    <string name="humidityText">Umidità</string>
+    <string name="windText">Vento</string>
+    <string name="poiName">Nome</string>
+    <string name="txtDistance">Distanza</string>
+    <string name="trackBackText">back</string>
+    <string name="txtBackButton">back</string>
+    <string name="txtStartButton">start</string>
+    <string name="txtPoiText">Avviare navigazione verso il POI?</string>
+    <string name="txtNameNumber">Nome del numero</string>
+    <string name="txtNumber">Numero</string>
+    <string name="txtCallButton">Chiama</string>
+    <string name="txtCallText">Dati numero</string>
+    <string name="txtAvgSpeed">Vmedia</string>
+    <string name="txtMaxSpeed">Vmassima</string>
+    <string name="txtType">Tipo</string>
+    <string name="txtForecast">Condizione</string>
+    <string name="txtHour">Ora</string>
+    <string name="unLink">Scollegato</string>
+    <string name="unLinkFalse">Scollegamento non riuscito</string>
+    <string name="errorCreationSaveTrack">Non hai abbastanza punti per creare un percorso</string>
+    <string name="errorNoMeteoFound">Informazioni meteo non presenti</string>
+    <string name="errorNoTracksFound">Al momento non sono disponibili percorsi salvati</string>
+    <string name="errorNoNumbersFound">Nel dispositivo non sono salvati numeri di soccorso</string>
+    <string name="errorNoPoiFound">Al momento non sono disponibili punti di interesse nelle
+    vicinanze</string>
+    <string name="gpsStatusOn">Gps acceso</string>
+    <string name="gpsStatusOff">Gps spento</string>
+    <string name="wantSaveSession">Sei sicuro?</string>
+    <string name="dashboardItemClock">Ora</string>
+    <string name="dashboardItemDate">Data</string>
+    <string name="dashboardItemSpeed">Velocità</string>
+    <string name="dashboardItemDistanceNextpoint">Distanza rimanente al prossimo punto</string>
+    <string name="dashboardItemDistanceRemain">Distanza totale rimanente</string>
+    <string name="dashboardItemDistanceTotal">Distanza totale percorsa</string>
+    <string name="dashboardItemAltitude">Altitudine</string>
+    <string name="dashboardItemTimer">Cronometro</string>
+    <string name="dashboardItemClose">Annulla</string>
+    <string name="dashboardItemStepCounter">Contapassi</string>
+    <string name="dashboardEstimateTimeArrival">Tempo stimato di arrivo</string>
+    <string-array name="dashboardTrack">
+        <item>@string/dashboardItemClose</item>
+        <item>@string/dashboardItemTimer</item>
+        <item>@string/dashboardItemClock</item>
+        <item>@string/dashboardItemDate</item>
+        <item>@string/dashboardItemSpeed</item>
+        <item>@string/dashboardItemDistanceNextpoint</item>
+        <item>@string/dashboardItemDistanceRemain</item>
+        <item>@string/dashboardItemDistanceTotal</item>
+        <item>@string/dashboardItemAltitude</item>
+        <item>@string/dashboardItemStepCounter</item>
+        <item>@string/dashboardEstimateTimeArrival</item>
+    </string-array>
+    <string-array name="dashboardNormal">
+        <item>@string/dashboardItemClose</item>
+        <item>@string/dashboardItemTimer</item>
+        <item>@string/dashboardItemClock</item>
+        <item>@string/dashboardItemDate</item>
+        <item>@string/dashboardItemSpeed</item>
+        <item>@string/dashboardItemDistanceTotal</item>
+        <item>@string/dashboardItemAltitude</item>
+        <item>@string/dashboardItemStepCounter</item>
+    </string-array>
+</resources>

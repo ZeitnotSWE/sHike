@@ -1,0 +1,133 @@
+#content {
+	margin-top: 65px;
+}
+
+.container h1 {
+	font-size: 36px;
+	border-bottom: 1px solid #aaa;
+	font-variant: small-caps;
+	margin-bottom: 25px;
+}
+
+.container .jumbotron {
+	border: 1px solid #aaa;
+}
+
+.jumbotron {
+	padding-top: 15px;
+}
+
+.jumbotron p {
+	font-size: 16px;
+}
+
+#main #navbar-sec {
+	margin: 10px auto;
+}
+
+#navbar-sec {
+	text-align: center;
+	margin: 15px auto;
+}
+
+.navbar-brand {
+	padding: 5px 15px;
+}
+
+#map_container {
+	width:720px;
+	height:480px;
+	margin: 30px auto;
+}
+
+#map_controller {
+	display: table;
+	margin: 0 auto;
+}
+
+#map_controller input#zoom {
+	width: 100px;
+}
+
+#map_controller .input-group {
+	margin-right: 10px;
+}
+
+#sync.col-md-3.panel.panel-success {
+  height: 415px;
+}
+
+#sync .panel-body {
+	text-align: center;
+}
+	
+#sync .input-group {
+	margin: 10px auto;
+}
+
+
+/*** --- Hover della riga di una tabella personalizzato --- ***/
+table tbody tr:hover{
+   background-color: #C8F7C5 !important;   
+}
+
+/*** --- Personalizzazione TABLE  --- ***/
+.col-sm-6, .col-md-6,  
+.col-sm-5, .col-md-5,
+.col-sm-8, .col-md-8,
+.col-sm-3, .col-md-3,
+.col-sm-10, .col-md-10 {
+	padding: 0;
+}
+
+th.header { 
+    background-image: url(../img/small.gif); 
+    cursor: pointer; 
+    background-repeat: no-repeat; 
+    background-position: center left; 
+    padding-left: 20px !important; 
+    margin-left: -1px; 
+} 
+
+th.headerSortUp { 
+    background-image: url(../img/small_asc.gif); 
+} 
+
+th.headerSortDown { 
+    background-image: url(../img/small_desc.gif); 
+} 
+
+.more-link {
+	text-align: right;
+	text-decoration: underline;
+}
+
+/*** --- Personalizzazione FORM  --- ***/
+.input-group,
+.radio-inline {
+	margin: 8px 0;
+}
+.center-group {
+	margin: 8px auto;
+	text-align: center;
+}
+
+label {
+	display: block;
+	margin-bottom: 0;
+}
+
+.input-group .col-xs-6 {
+	padding-left: 0; 
+}
+
+/*** --- Immagine Profilo Login  --- ***/
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
