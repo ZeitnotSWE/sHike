@@ -1,31 +1,34 @@
 #sHike
 
-Tool for hikers, keep your activities monitored.
-(University of Padua, Software Engineering Didactic Project 2014/2015, Zeitnot Group)
+Activity tracker for hikers, made by the Zeitnot team.
+(Software Engineering didactic project, AY 2014/2015, BSc in Computer Science, University of Padua)
 
 
-##ZeitnotGroup
-We are a team formed on the occasion to develop this software.  
-Members:  
-- Boscolo Nata Andrea
-- Canal Davide
-- Cavallarin Jacopo
-- Costa Andrea
-- Garavello Mario
-- Longo Tiziano
-- Tiozzo Brasiola Luca
+##Zeitnot
+We are a team of 7 students who were majoring in Computer Science at the time the project was made.
+The members are:  
+- Andrea Boscolo Nata
+- Davide Canal
+- Jacopo Cavallarin
+- Andrea Costa
+- Mario Garavello
+- Tiziano Longo
+- Luca Tiozzo Brasiola
 
 
 ##What is this?
 
-It's basically a tool for hikers, created with intention of monitoring and storing user's performance.
-This project was commissioned by [Si14](http://www.si14.com/), but it was part of the [Computer Science](http://informatica.math.unipd.it/index.html)'s [Software Engineering teaching course](http://www.math.unipd.it/~tullio/IS-1/2014/) held in [University of Padua](http://www.unipd.it/).  
+It's basically a tool for hikers to monitor and store their performance.
+This project was commissioned by [Si14 s.p.a.](http://www.si14.com/) as part of the [Software Engineering teaching course](http://www.math.unipd.it/~tullio/IS-1/2014/), for the [BSc in Computer Science](http://informatica.math.unipd.it/laurea/index.html) of the [University of Padua](http://www.unipd.it/).  
 
-The web client it's Spring Framework + Bootstrap, while the Android app is written in Java.
+The tool consists of 2 parts: a web client, and an Android app for the [WearIT smartwatch](http://www.wearit.net/).
+The app does all the monitoring while the web client is used to manage the user's results and stats.
+Both parts were written in Java: we used the Spring Framework and Bootstrap for the web client and Android Studio for the app.
 
 
 
-In this repository you will find the source codes for web client and Android app, the source codes for the client and all the documentation (in italian language), partially related to the teaching and not interesting by most of the users.  
+In this repository you will find complete sources of the web client and the Android app and all the documentation written during the project (in italian only).
+The documents are partly related to the teaching course, thus they they might not be useful for everyone.
 
 ##LICENSE
-[ALL the files are released under license Apache v2](https://github.com/ZeitnotSWE/sHike/blob/master/LICENSE).
+[ALL the files are released under the Apache v2 license](https://github.com/ZeitnotSWE/sHike/blob/master/LICENSE).
